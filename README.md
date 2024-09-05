@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi!
+I am RitzDx! I love working on random projects, most of them go unfinished, until I Find it and decide to complete it.
 
-<!--
-**RitzDx/RitzDx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What projects am I working on rn?
+-AwakenedRec(Cringe ahh old rec room server, Likely will go unfinished)
+-A Movie Like Thing in RR
+-None really
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What platforms do I use?
+I use:
+Discord
+Twitter(Inactive)
+Youtube(Not Consistant)
+This
+## Why are you in here?
