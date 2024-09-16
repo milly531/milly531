@@ -19,5 +19,10 @@ Twitter(Inactive)
 Youtube(Not Consistant)
 
 This
+
+## What coding languages do I know?(Can make stuff work with it)
+![My Image](./assets/none.png)
+
+
 ## Why are you in here?
 Tell me bro
