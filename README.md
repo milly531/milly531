@@ -22,6 +22,10 @@ This
 
 ## What coding languages do I know?(Can make stuff work with it)
 ![My Image](./assets/none.png)
+## Coding languages I want to learn/Know a little bit about
+![My Image](./assets/nodejs.png)
+![My Image](./assets/c#.png)
+![My Image](./assets/python.png)
 
 
 ## Why are you in here?
