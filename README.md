@@ -3,7 +3,7 @@ I am RitzDx! I love working on random projects, most of them go unfinished, unti
 
 ## What projects am I working on rn?
 
-none
+kendirck
 
 ## What platforms do I use?
 
