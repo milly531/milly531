@@ -17,11 +17,10 @@ Youtube(Not Consistant)
 
 This
 
-## What coding languages do I know?(Can make stuff work with it)
-![My Image](./assets/none2.png)
+## What coding languages do I know?(Can make stuff work with it)(or know very little of)
+![My Image](./assets/csharp2.png)
 ## Coding languages I want to learn/Know a little bit about
 ![My Image](./assets/nodejs2.png)
-![My Image](./assets/csharp2.png)
 ![My Image](./assets/python2.png)
 
 
