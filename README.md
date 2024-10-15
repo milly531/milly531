@@ -5,6 +5,9 @@ I am RitzDx! I love working on random projects, most of them go unfinished, unti
 
 kendirck
 
+## Goals
+learn C# completely
+
 ## What platforms do I use?
 
 I use:
