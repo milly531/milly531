@@ -26,7 +26,6 @@ This
 ![My Image](./assets/nodejs2.png)
 ![My Image](./assets/python2.png)
 
-### And I love my dad!
 
 
 ## Why are you in here?
