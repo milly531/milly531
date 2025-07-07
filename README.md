@@ -1,9 +1,9 @@
 ## Hi!
-I am RitzDx! I love working on random projects, most of them go unfinished, until I Find it and decide to complete it.
+I am Milly! Despite the name, I'm a male, and my name isnt actually Milly irl(like my bio says).
 
 ## What projects am I working on rn?
 
-kendirck
+Nothing
 
 ## Goals
 learn C# completely
@@ -16,7 +16,7 @@ Discord
 
 Twitter(Inactive)
 
-Youtube(Not Consistant)
+Youtube(Not Consistent)
 
 This
 
@@ -27,8 +27,5 @@ This
 ![My Image](./assets/python2.png)
 
 
-
-## Why are you in here?
-Tell me bro
 
 ## playboi carti
