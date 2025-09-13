@@ -6,10 +6,11 @@ I am Milly! Despite the name, I'm a male, and my name isnt actually Milly irl(li
 Nothing
 
 ## Goals
-learn C# completely
+-learn C# completely
 
-learn C++:pensive: 
+-learn C++:pensive: 
 
+-Make my own chat application/website with its own realtime communication
 ## What platforms do I use?
 
 I use:
