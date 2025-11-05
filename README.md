@@ -27,7 +27,6 @@ This
 ![My Image](./assets/csharp2.png)
 ## Coding languages I want to learn/Know a little bit about
 ![My Image](./assets/cplusplus.png)
-![My Image](./assets/python.png)
 
 
 
