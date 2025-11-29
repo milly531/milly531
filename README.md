@@ -5,7 +5,7 @@ Despite the name, I’m **male**, and *Milly* isn’t my real name (as my bio sa
 ---
 
 ## 🛠️ What am I working on right now?
-Honestly… **nothing at the moment** — just learning and planning future stuff.
+nothign
 
 ---
 
