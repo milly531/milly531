@@ -1,33 +1,37 @@
-## Hi!
-I am Milly! Despite the name, I'm a male, and my name isnt actually Milly irl(like my bio says).
+## 👋 Hi!
+I’m **Milly**!  
+Despite the name, I’m **male**, and *Milly* isn’t my real name (as my bio says).
 
-## What projects am I working on rn?
+---
 
-Nothing
+## 🛠️ What am I working on right now?
+Honestly… **nothing at the moment** — just learning and planning future stuff.
 
-## Goals
--learn C# completely
+---
 
--learn C++:pensive: 
+## 🎯 Goals
+- Fully learn **C#**
+- Learn **C++** 😔
+- Build my own **chat application/website** with real-time communication
 
--Make my own chat application/website with its own realtime communication
-## What platforms do I use?
+---
 
-I use:
+## 🌐 Platforms I use
+- **Discord**
+- **Twitter** (inactive)
+- **YouTube** (not consistent)
+- **This platform**
 
-Discord
+---
 
-Twitter(Inactive)
-
-Youtube(Not Consistent)
-
-This
-
-## What coding languages do I know?(Can make stuff work with it)
+## 💻 Coding languages I know (well enough to make stuff work)
 ![My Image](./assets/csharp2.png)
-## Coding languages I want to learn/Know a little bit about
+
+---
+
+## 🧠 Languages I want to learn / know a little about
 ![My Image](./assets/cplusplus.png)
 
+---
 
-
-## terrace martin
+## 🎵 terrace martin
