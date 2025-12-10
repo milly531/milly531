@@ -1,6 +1,6 @@
 ## 👋 Hi!
 I’m **Milly**!  
-Despite the name, I’m **male**, and *Milly* isn’t my real name (as my bio says).
+Despite the name, I’m **male**, and *Milly* isn’t my real name.
 
 ---
 
