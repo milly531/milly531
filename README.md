@@ -12,7 +12,7 @@ nothign
 ## 🎯 Goals
 - Fully learn **C#**
 - Learn **C++** 😔
-- Build my own **chat application/website** with real-time communication
+- Make my own IL2CPP code injector, similar to bepinex and melonloader
 
 ---
 
