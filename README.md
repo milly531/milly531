@@ -31,7 +31,6 @@ nothign
 
 ## 🧠 Languages I want to learn / know a little about
 ![My Image](./assets/cplusplus.png)
-![My Image](./assets/pythonbutbetter.png)
 
 ---
 
